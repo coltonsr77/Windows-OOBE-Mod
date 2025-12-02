@@ -1,3 +1,4 @@
+@ECHO OFF
 cls
 echo OOBE by Coltonsr77 V1.1
 pause
@@ -24,3 +25,4 @@ pause
 echo Done
 pause
 exit
+@ECHO OFF
