@@ -1,3 +1,4 @@
+cls
 echo OOBE by Coltonsr77 V1.1
 pause
 echo Make sure to check for updates on GitHub.
