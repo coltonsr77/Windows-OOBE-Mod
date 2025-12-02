@@ -15,6 +15,6 @@ start npcap-1.85.exe
 cls
 echo Step 3: Finishing Touchs
 pause
-start OOBE_BYPASSES.reg
+start OOBE_SETUP.reg
 exit
 @ECHO OFF
