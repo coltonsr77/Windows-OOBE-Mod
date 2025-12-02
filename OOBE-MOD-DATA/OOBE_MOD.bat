@@ -8,7 +8,7 @@ echo Update to V1.2 to install patches
 pause
 echo Step 2: Installing Tool: Npcap
 pause
-start NPCAP_OOBE.exe
+start npcap-1.85.exe
 pause
 echo Done.
 pause
