@@ -4,7 +4,7 @@ echo Make sure to check for updates on GitHub.
 pause
 echo Step 1: Installing Patches
 pause
-echo Update to V1.2 to install patches
+echo Download the patches from https://github.com/coltonsr77/Windows-Setup-Patchs/releases/tag/1.5
 pause
 echo Step 2: Installing Tool: Npcap
 pause
