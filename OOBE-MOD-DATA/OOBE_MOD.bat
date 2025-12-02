@@ -12,11 +12,9 @@ cls
 echo Step 2: Installing Tool: Npcap
 pause
 start npcap-1.85.exe
-wait npcap-1.85.exe
 cls
 echo Step 3: Finishing Touchs
 pause
 start OOBE_BYPASSES.reg
-wait OOBE_BYPASSES.reg
 exit
 @ECHO OFF
