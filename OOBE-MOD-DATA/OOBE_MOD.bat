@@ -1,15 +1,12 @@
-echo OOBE MOD by Coltonsr77 V1.0
+echo OOBE by Coltonsr77 V1.1
 pause
-echo OOBE is being Setting up.
-pause
-echo Done.
+echo Make sure to check for updates on GitHub.
 pause
 echo Step 1: Installing Patches
 pause
-OOBE_BYPASSES.reg
 echo Done.
 pause
-echo Step 2: Installing Tool: NPCAP
+echo Step 2: Installing Tool: Npcap
 pause
 NPCAP_OOBE.exe
 pause
@@ -17,6 +14,7 @@ echo Done.
 pause
 echo Step 3: Finishing Touchs
 pause
+OOBE_BYPASSES.reg
 echo Done.
 pause
 exit
