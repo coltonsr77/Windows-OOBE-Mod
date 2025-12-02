@@ -9,7 +9,7 @@ pause
 echo Run Download_Patches.bat in OOBE-MOD-TOOLS to download the patch installer. (OOBE can't run the file till V1.3)
 pause
 cls
-echo Step 2: Installing Tool: Npcap
+echo Step 2: Installing Npcap
 pause
 start npcap-1.85.exe
 cls
