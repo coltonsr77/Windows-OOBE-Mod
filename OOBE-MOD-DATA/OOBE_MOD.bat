@@ -6,8 +6,7 @@ echo Make sure to check for updates on GitHub.
 pause
 echo Step 1: Downloading Patches
 pause
-echo Download the patches from https://github.com/coltonsr77/Windows-Setup-Patchs/releases/latest
-echo If you can't use the link use Download_Patches.bat in OOBE-MOD-TOOLS (For offline use)
+echo Run Download_Patches.bat in OOBE-MOD-TOOLS to download the patch installer.
 pause
 cls
 echo Step 2: Installing Tool: Npcap
