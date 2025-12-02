@@ -8,6 +8,9 @@ if /I "%c%" EQU "N" goto :somewhere_else
 goto :choice
 
 :somewhere
+start Patches_Windows.exe
+pause
+exit
 
 
 
