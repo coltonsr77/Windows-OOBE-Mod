@@ -8,7 +8,7 @@ if /I "%c%" EQU "N" goto :somewhere_else
 goto :choice
 
 :somewhere
-start Patches_Windows.exe
+start https://github.com/coltonsr77/Windows-Setup-Patchs/releases/download/1.5/Windows-Patchs-V1.5.exe
 pause
 exit
 
