@@ -1,16 +1,5 @@
 ﻿Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\SOFTWARE\PATCHSBypass]
-"WebPatch(NOT OUT)"="C:/WebPatch/WebPatch.exe"
-"DevPatch(NOT OUT)"="C:/DevPatch/DevPatch.exe"
-"ThemePatch(ADDING SOON)"="C:/ThemePatch/ThemePatch.exe"
-"REGFILEVersion"="2.5"
 "OOBEVersion(MOD)"="1.1"
-
-[HKEY_CURRENT_USER\SOFTWARE\PATCHSBypass\DevPatch]
-
-[HKEY_CURRENT_USER\SOFTWARE\PATCHSBypass\ThemePatch]
-
-[HKEY_CURRENT_USER\SOFTWARE\PATCHSBypass\WebPatch]
-
 
