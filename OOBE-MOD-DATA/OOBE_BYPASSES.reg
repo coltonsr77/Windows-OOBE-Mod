@@ -1,4 +1,5 @@
 ﻿Windows Registry Editor Version 5.00
 
-[HKEY_CURRENT_USER\SOFTWARE\PATCHSBypass]
-"OOBEVersion(MOD)"="1.2"
+[HKEY_CURRENT_USER\SOFTWARE\OOBEMod]
+"Version"="1.2"
+
