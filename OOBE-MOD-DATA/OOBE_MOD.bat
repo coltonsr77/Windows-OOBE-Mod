@@ -1,6 +1,6 @@
 @ECHO OFF
 cls
-echo OOBE by Coltonsr77 V1.2
+echo OOBE by Coltonsr77 V1.3
 pause
 echo Make sure to check for updates on GitHub.
 pause
