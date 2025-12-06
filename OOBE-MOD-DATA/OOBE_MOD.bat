@@ -6,11 +6,15 @@ echo Make sure to check for updates on GitHub.
 pause
 echo Step 1: Downloading Patches
 pause
-echo Run Download_Patches.bat in OOBE-MOD-TOOLS to download the patch installer. (OOBE can't run the file till V1.3)
+cd ..
+cd OOBE-MOD-TOOLS
+start Download_Patches.bat
 pause
 cls
 echo Step 2: Installing Npcap
 pause
+cd ..
+cd OOBE-MOD-DATA
 start npcap-1.85.exe
 cls
 echo Step 3: Finishing Touchs
