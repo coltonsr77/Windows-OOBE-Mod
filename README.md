@@ -1,3 +1,3 @@
 # Windows-OOBE-Mod
 
-Some OOBE mod that installs drivers, Npcap and patches
+Some OOBE mod that installs Npcap and patches
