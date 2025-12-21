@@ -4,7 +4,7 @@ echo OOBE by Coltonsr77 V1.3
 pause
 echo Make sure to check for updates on GitHub.
 pause
-echo Step 1: Downloading Patches
+echo Step 1: Download "Windows-Setup-Patchs"
 pause
 cd ..
 cd OOBE-MOD-TOOLS
@@ -17,7 +17,7 @@ cd ..
 cd OOBE-MOD-DATA
 start npcap-1.85.exe
 cls
-echo Step 3: Finishing Touchs
+echo Step 3: Adding registry keys to the registry
 pause
 start OOBE_SETUP.reg
 exit
