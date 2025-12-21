@@ -12,8 +12,6 @@ start https://github.com/coltonsr77/Windows-Setup-Patchs/releases/download/1.5/W
 pause
 exit
 
-
-
 :somewhere_else
 exit
 @ECHO OFF
