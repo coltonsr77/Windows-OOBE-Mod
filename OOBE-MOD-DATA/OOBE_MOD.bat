@@ -15,7 +15,7 @@ echo Step 2: Installing Npcap
 pause
 cd ..
 cd OOBE-MOD-DATA
-start npcap-1.85.exe
+start npcap-1.87.exe
 cls
 echo Step 3: Adding registry keys to the registry
 pause
