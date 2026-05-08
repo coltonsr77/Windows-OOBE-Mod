@@ -1,5 +1,5 @@
 cls
-@ECHO OFF
+@echo off
 
 :choice
 set /P c=Do you want to download "Windows-Setup-Patchs"[Y/N]?
@@ -14,4 +14,4 @@ exit
 
 :somewhere_else
 exit
-@ECHO OFF
+@echo off
