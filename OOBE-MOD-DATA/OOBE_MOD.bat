@@ -1,4 +1,4 @@
-@ECHO OFF
+@echo off
 cls
 echo OOBE by coltonsr77 V1.3
 pause
@@ -21,4 +21,4 @@ echo Step 3: Adding registry keys to the registry
 pause
 start OOBE_SETUP.reg
 exit
-@ECHO OFF
+@echo off
