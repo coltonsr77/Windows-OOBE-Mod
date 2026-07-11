@@ -1,6 +1,6 @@
 @echo off
 cls
-echo OOBE by coltonsr77 V1.3
+echo OOBE by coltonsr77 V1.4
 pause
 echo Make sure to check for updates on GitHub.
 pause
@@ -15,7 +15,7 @@ echo Step 2: Installing Npcap
 pause
 cd ..
 cd OOBE-MOD-DATA
-start npcap-1.87.exe
+start npcap-1.88.exe
 cls
 echo Step 3: Adding registry keys to the registry
 pause
