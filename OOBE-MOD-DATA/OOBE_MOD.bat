@@ -17,7 +17,7 @@ cd ..
 cd OOBE-MOD-DATA
 start npcap-1.90.exe
 cls
-echo Step 3: Adding registry keys to the registry
+echo Step 3: Adding registry keys
 pause
 start OOBE_SETUP.reg
 exit
